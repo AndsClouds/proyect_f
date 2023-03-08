@@ -1,0 +1,118 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hola", "hello", "hi"],
+    "bot_response": "Hola, en que puedo ayudarte?",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["adios", "goodbye", "bye"],
+    "bot_response": "Hasta luego",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["como", "puedo", "acceder", "a", "mi", "cuenta", "de", "estudiante?"],
+    "bot_response": "Para acceder a tu cuenta de estudiante, debes dirigirte al sitio web de la institucion y buscar el enlace de inicio de sesion. Una vez alli, ingresa tu nombre de usuario y contrasena para acceder a tu cuenta.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["como", "puedo", "solicitar", "una", "extension", "para", "un", "trabajo", "o", "tarea"],
+    "bot_response": "Puedes solicitar una extensión para un trabajo o tarea hablando con tu profesor o tutor. También puedes enviar un correo electrónico o completar un formulario de solicitud de extensión en línea.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["como", "puedo", "registrame", "para", "una", "nueva", "clase"],
+    "bot_response": "Para registrarte en una nueva clase, debes hablar con tu consejero académico o con el departamento de registro de la institución. Ellos te guiarán a través del proceso de inscripción.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["como", "puedo", "encontrar", "recursos", "de", "tutoria", "o", "ayuda", "adicional"],
+    "bot_response": "La institución educativa por lo general tiene centros de tutoría o recursos de ayuda adicional para los estudiantes. Deberás buscar en el sitio web de la institución para encontrar los recursos disponibles y los horarios.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["como", "puedo", "comunicarme", "con", "mi", "profesor", "o", "tutor"],
+    "bot_response": "Puedes comunicarte con tu profesor o tutor por correo electrónico, a través del sistema de mensajería en línea de la institución o asistir a sus horas de oficina. También puedes usar la plataforma de chat en línea para comunicarte con ellos.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["como", "puedo", "acceder", "a", "mi", "horario", "de", "clases"],
+    "bot_response": "Tu horario de clases estará disponible en tu cuenta de estudiante en línea. Puedes acceder a él a través del sitio web de la institución.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["como", "puedo", "encontrar", "informacion", "sobre", "las", "becas", "que", "proporciona", "el", "colegio?"],
+    "bot_response": "Deberás visitar el sitio web de la institución para encontrar información sobre becas que tiene el colegio. También puedes hablar con tu consejero académico para obtener más información sobre los recursos disponibles.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["como", "puedo", "cambiar", "mi", "contrasena", "de", "cuenta", "de", "estudiante?"],
+    "bot_response": "Para cambiar tu contraseña de cuenta de estudiante, debes iniciar sesión en tu cuenta y buscar la opción (cambiar contraseña). Luego, deberás ingresar tu contraseña actual y la nueva contraseña que deseas usar.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["como", "puedo", "encontrar", "informacion", "sobre", "eventos", "y", "actividades", "estudiantiles?"],
+    "bot_response": "La institución educativa suele tener una lista de eventos y actividades estudiantiles en su sitio web o en un boletín informativo. También puedes buscar en las redes sociales de la institución para encontrar información sobre eventos y actividades.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["como", "puedo", "encontrar", "informacion", "sobre", "programas", "de", "intercambio", "estudiantil"],
+    "bot_response": "La institución educativa debería tener información sobre programas de intercambio estudiantil en su sitio web o en el departamento de asuntos internacionales. También puedes hablar con tu consejero académico para obtener más información sobre los programas de intercambio disponibles.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["dame", "mi", "horario", "de", "matematicas"],
+    "bot_response": "Seguro, pasas matemáticas tres veces a la semana, lunes, miércoles y viernes.",
+    "required_words": ["horario", "matematicas"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["dame", "mi", "horario", "de", "lenguaje"],
+    "bot_response": "Claro, pasas lenguaje tres veces a la semana, lunes, martes y jueves.",
+    "required_words": ["horario", "lenguaje"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["dame", "mi", "horario", "de", "biologia"],
+    "bot_response": "A ver, pasas biologia dos veces a la semana jueves y viernes.",
+    "required_words": ["horario", "biologia"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["dame", "mi", "horario", "de", "historia"],
+    "bot_response": "Vaya, pasas historia dos veces a la semana lunes y viernes.",
+    "required_words": ["horario", "historia"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["dame", "mi", "horario", "de", "artes"],
+    "bot_response": "Mira, pasas artes los viernes.",
+    "required_words": ["horario", "artes"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["dame", "mi", "horario", "de", "educacion", "fisica"],
+    "bot_response": "Al parecer, pasas educacion fisica cada martes.",
+    "required_words": ["horario", "educacion", "fisica"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["dame", "mi", "horario", "de", "fisica"],
+    "bot_response": "Segun veo, pasas fisica cada miercoles.",
+    "required_words": ["horario", "fisica"]
+  }
+]  
+
+  
